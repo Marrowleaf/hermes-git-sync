@@ -1,9 +1,33 @@
-# ---
+# 🔧 hermes-git-sync
 
---- name: git-sync description: "Auto-commit and push Obsidian vault changes with meaningful commit messages and scheduled sync." 
+A [Hermes Agent](https://hermes-agent.nousresearch.com/) skill for **git-sync** (note-taking category).
 
-Part of the [Hermes Agent](https://github.com/Marrowleaf/hermes-agent) skill ecosystem.
+## Installation
+
+```bash
+cd ~/.hermes/skills/note-taking
+git clone https://github.com/Marrowleaf/hermes-git-sync.git git-sync
+```
+
+## Usage
+
+Once installed, this skill is automatically detected by Hermes Agent.
+
+```
+skill_view(name="git-sync")
+```
+
+## Structure
+
+- `SKILL.md` — Full documentation
+- `references/` — Reference materials
+- `scripts/` — Utility scripts
+- `templates/` — Templates
 
 ## License
 
-MIT License - Copyright (c) 2026 James Durrant
+MIT — see [LICENSE](LICENSE)
+
+---
+
+Built with ❤️ by [James Durrant](https://github.com/Marrowleaf)
