@@ -53,3 +53,5 @@ Configure in `config.md` or via environment variables.
 ## License
 
 MIT
+
+## Related Hermes Skills
