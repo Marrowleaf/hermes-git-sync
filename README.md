@@ -55,3 +55,7 @@ Configure in `config.md` or via environment variables.
 MIT
 
 ## Related Hermes Skills
+- [hermes-notion](https://github.com/Marrowleaf/hermes-notion) — Notion integration and management
+- [hermes-session-summary](https://github.com/Marrowleaf/hermes-session-summary) — Session summarization and review
+- [hermes-airtable](https://github.com/Marrowleaf/hermes-airtable) — Airtable integration and automation
+- [hermes-docker-starter](https://github.com/Marrowleaf/hermes-docker-starter) — Docker project starter templates
